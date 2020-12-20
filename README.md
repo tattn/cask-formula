@@ -4,7 +4,7 @@ cask-formula
 
 # Tap
 ```bash
-brew tap tattn/cask-formula
+brew tap tattn/formula
 
 ```
 
